@@ -1,0 +1,73 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+        
+}
+header{
+	width: 100%;
+	height: 100vh;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.3)), url(../im/cb.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding-right: 0px;
+	position: fixed;
+	}
+	.gh
+	{
+		display: flex;
+	}
+	.logo img{
+		width: 500px;
+		height: 200px;
+	}
+	.git{
+		padding-left: 650px;
+	position: absolute;	
+	 }
+	 .git h3{ 
+	 	font-size: 30px;
+
+	 }
+	 .git p{
+	 	font-size: 20px;
+	 	justify-content: space-between;
+	 	color: white;
+	 }
+	 .git img{
+	 	width: 50px;
+	 	height: 40px;
+	 }
+	 .git h2{
+	 	padding: 0px 0px;
+	 }
+	 .ol{
+ 	 display: flex;
+
+	 }
+	 .cc{
+ 	 display: flex;
+ 	 
+
+	 }
+	 .cc p{
+	 	padding-left: 20px;
+	 padding-top: 8px;
+	 font-size: 20px;
+	 
+	 }
+	 
+	 .enq h3{
+	 	font-size: 30px;
+	 }
+	 .enq p{
+	 
+	font-size: 20px;
+
+	 }
+	 .enq input{
+	 	width: 400px;
+	 
+	 	height: 30px;
+	 }
+	 

@@ -1,0 +1,35 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+header{
+	width: 100%;
+	height: 100vh;
+	background-image: url(../im/dd.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	padding-right: 0px;
+                position: fixed;
+
+	}
+	.logo img{
+		width: 500px;
+		height: 200px;
+	}
+	ul{
+		font-size: 34px;
+		color : yellow;
+		padding-left: 30px;
+	}
+	button{
+ 
+		padding: 10px 405px;
+	text-align: center;
+	font-size: 24px;
+	color:black;
+	border:none;
+	border-radius: 10px;
+background-color: pink
+
+	}
