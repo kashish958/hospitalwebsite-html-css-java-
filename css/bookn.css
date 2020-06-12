@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 6, 2020, 8:26:45 PM
+    Author     : kashish
+*/
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+header{
+	width: 100%;
+	height: 100vh;
+
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+   }
+  .ban img{
+  height: 250px;
+  width: 100%;
+
+  }
+  .con{
+  color: gray;
+  padding-left: 5px;
+
+  }
+  .con p{
+  	margin-top: 80px;
+  	
+ 
+ 
+  }
+  .con input{
+  	border:1px solid;
+  width: 300px;
+  height: 40px;
+border-radius: 5px;
+  
+  }
+  p{
+  	color: gray;
+  	padding-left: 10px;
+  }
+ .o input{ 
+
+  		border:1px solid; 
+  width: 1350px;
+  height: 120px;
+border-radius: 5px;
+  margin-left: 6px;
+  }
+  button{
+  	padding: 10px 45px;
+	text-align: center;
+	font-size: 14px;
+	color:black;
+	border:none;
+	margin-left: 600px;
+	border-radius: 10px;
+background-color: pink
+  }
